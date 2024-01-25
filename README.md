@@ -46,8 +46,7 @@ Notice the distinction between areas and cities; a valid solution can start in o
 end in another airport as long as it belongs to the same area. However, a solution would be invalid if it
 required the switching of an airport to continue the journey.
 
-## Directions for Use of Code
-
+### Directions for Use of Code
 Use the Settings.java class to adjust parameters as desired
 
 To compile, import code into an IDE such as Eclipse and export into a runnable Jar file, using the Main.java class as the main class.
