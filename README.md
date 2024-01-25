@@ -46,6 +46,17 @@ Notice the distinction between areas and cities; a valid solution can start in o
 end in another airport as long as it belongs to the same area. However, a solution would be invalid if it
 required the switching of an airport to continue the journey.
 
+### Datasets
+
+Datasets used can be downloaded from
+https://code.kiwi.com/articles/travelling-salesman-challenge-2-0-wrap-up/
+
+Each dataset names a starting city, then lists areas and their cities, and
+finally lists routes with costs and finally the day in which that route is legal. If the day is 0, the route is
+available on all days.
+
+<img width="359" alt="image" src="https://github.com/Petter-Programs/Travelling-Salesman-Challenge/assets/78438600/62c48f8f-2350-49c6-b808-8a43b0d57e62">
+
 ### Directions for Use of Code
 Use the Settings.java class to adjust parameters as desired
 
@@ -60,6 +71,5 @@ java -jar [Your compiled file].jar [path to folder for debug] [path to dataset f
 To run in automatic mode (for a number of times set in Settings.java)
 java -jar [Your compiled file].jar [path to folder for debug] [path to dataset file to use] auto
 
-Datasets used can be downloaded from
-https://code.kiwi.com/articles/travelling-salesman-challenge-2-0-wrap-up/
+
 
