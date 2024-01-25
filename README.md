@@ -18,7 +18,7 @@ datasets" used by contestants to design their algorithms, and the "evaluation da
 contestants, which were used by the contest organizers to further evaluate the algorithms.
 
 
-## Explanation of Rules
+### Explanation of Rules
 The goal of the TSC is to identify an ordering of cities which minimizes the cost of travel between a set of
 areas and returns to the starting area. The solution identified must be feasible, meaning that there exists
 a route for every adjacent city on the day of the route, where the day is represented by the city's index
