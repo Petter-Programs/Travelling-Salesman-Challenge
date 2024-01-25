@@ -51,8 +51,7 @@ required the switching of an airport to continue the journey.
 Datasets used can be downloaded from
 https://code.kiwi.com/articles/travelling-salesman-challenge-2-0-wrap-up/
 
-Each dataset names a starting city, then lists areas and their cities, and
-finally lists routes with costs and finally the day in which that route is legal. If the day is 0, the route is
+Each dataset names a starting city, then lists areas and their cities. It then lists routes with costs and finally the day in which that route is legal. If the day is 0, the route is
 available on all days.
 
 <img width="359" alt="image" src="https://github.com/Petter-Programs/Travelling-Salesman-Challenge/assets/78438600/62c48f8f-2350-49c6-b808-8a43b0d57e62">
